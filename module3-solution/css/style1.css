@@ -3,6 +3,11 @@ body
             background-color:#eee;
             padding-bottom:20px;
         }
+        h1{
+            font-size: 45px;
+            font-family: initial;
+            color: #c30025;
+        }
         .nav.navbar-nav>li
         {
             text-align:center;
@@ -41,9 +46,10 @@ body
         }
         .img-header>a
         {
-            text-decoration:none;
-            color:red;
-            font-weight:bold;
+                text-decoration: none;
+                color: #0026e2;
+                font-weight: bold;
+                font-size: 16px;
         }
         .home-title
         {
